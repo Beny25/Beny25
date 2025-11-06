@@ -1,8 +1,3 @@
-<div align="center" style="background: linear-gradient(90deg, #0052FF, #00C2FF, #FFFFFF); padding: 25px; border-radius: 12px;">
-  <h1 style="color: white;">👋 Hey, I'm Beny</h1>
-  <p style="color: #EAF4FF;">Exploring onchain experiments, Base ecosystem, and small deploy rituals ⚡</p>
-</div>
-
 <p align="center">
 <p align="center">
   <img src="https://img.shields.io/badge/Built%20on-Base-0052FF?style=for-the-badge&logo=coinbase&logoColor=white" />
