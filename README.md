@@ -11,7 +11,7 @@
 # 👋 Hey, I'm Beny
 
 🚀 Passionate about exploring **onchain experiments** and building small but fun projects on **Base**.  
-Sometimes I break things, sometimes they actually work — either way, I learn something every day 😄
+Sometimes I break things, sometimes they actually work either way, I learn something every day 😄
 
 ---
 
@@ -39,4 +39,4 @@ Sometimes I break things, sometimes they actually work — either way, I learn s
 ---
 
 > “There’s no luxury here, only proof that I survived another deploy ritual.” 😂  
-> — Probably me, every time Hardhat compiles successfully
+> Probably me, every time Hardhat compiles successfully
